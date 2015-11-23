@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokemonEstudio</string>
+
+    <string name="pintarRojo">Pintar de rojo</string>
+    <string name="pintarAzul">Pintar de azul</string>
+    <string name="pintarAmarillo">Pintar de amarillo</string>
+</resources>
